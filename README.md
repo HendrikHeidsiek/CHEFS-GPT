@@ -1,6 +1,6 @@
 # Chefs GPT
 
-As you might have guest by now, this is an aprils fools joke! We will not be introducing Chat GPT implemented in MS Excel. But, the implementation von GPT 2.0 in Excel is real, and presents an amazing learning oportunity.
+As you might have guest by now, this is an aprils fools joke! We will not be introducing Chat GPT implemented in MS Excel. But, the implementation of GPT 2.0 small in Excel is real, and presents an amazing learning oportunity.
 Please feel free to explore this wonderful madness that is the work of Ishan Anand.
 
 To download the Excel-file use the links in the description below or directly visit the repository [https://github.com/ianand/spreadsheets-are-all-you-need](https://github.com/ianand/spreadsheets-are-all-you-need).
